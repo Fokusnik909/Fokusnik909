@@ -1,16 +1,13 @@
-## Hi there 👋
+## Привет меня зовут Артур, 👋
 
-<!--
-**Fokusnik909/Fokusnik909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Обо мне:
+ Я занимаюсь iOS-разработкой с 2022 года и активно развиваюсь в этом направлении. Люблю писать чистый, понятный и поддерживаемый код.
+ 
+## 💼 Технологии и инструменты:
+- **Языки:** Swift 
+- **Архитектуры:** MVC, MVP, MVVM, VIPER  
+- **Инструменты:** UIKit, CoreData, GCD, URLSession
+- **Менеджер зависимостей:** SPM, CocoaPods    
+- **Тестирование:** XCTest  
+- **Работа с сетью:** REST API, JSON 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
